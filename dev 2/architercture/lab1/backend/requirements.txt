@@ -1,6 +1,0 @@
-djangorestframework
-markdown
-django-filter
-psycopg[binary,pool]
-django-extensions
-python-dotenv
